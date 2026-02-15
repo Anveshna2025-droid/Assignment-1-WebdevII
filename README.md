@@ -30,7 +30,7 @@ This project demonstrates dynamic DOM manipulation and event handling without us
 
 Assignment-1-WebdevII/
 
-│
+
 ├── index.html  
 ├── style.css  
 ├── script.js  
