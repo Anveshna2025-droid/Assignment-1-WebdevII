@@ -29,7 +29,7 @@ function createEventCard(eventData) {
     card.className = "event-card";
 
     card.innerHTML = `
-        <div class="delete-btn">X</div>
+        <button class="delete-btn">X</button>
         <h3>${eventData.title}</h3>
         <div>${eventData.date}</div>
         <span class="category-tag"><strong>${eventData.category}</strong></span>

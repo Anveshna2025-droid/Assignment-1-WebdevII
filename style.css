@@ -121,14 +121,13 @@ button:hover {
 
 .delete-btn {
     position: absolute;
-    color:white;
-    font-weight: bolder;
+    text-align: center;
     top: 10px;
     right: 10px;
     background: #ff4d4d;
     width: 22px;
-    height: 22px;
-    border-radius: 50%;
+    height: 32px;
+    border-radius: 20%;
     font-size: 0.8rem;
     cursor: pointer;
 }
